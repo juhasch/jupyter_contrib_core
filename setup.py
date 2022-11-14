@@ -23,7 +23,7 @@ Common utilities for jupyter-contrib projects. Includes:
 -   common application components and cli scripts
 -   utility classes and functions for use in tests
 """,
-        version='0.4.0',
+        version='0.4.1',
         author='jcb91, jupyter-contrib developers',
         author_email='joshuacookebarnes@gmail.com',
         url=('https://github.com/'
